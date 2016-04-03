@@ -1,0 +1,19 @@
+blockquote span.author,
+blockquote span.title,
+blockquote span.date {
+    float: right;
+    /*font-size: .75em;*/
+}
+
+.reveal blockquote {
+    text-align:left;
+    font-style:normal;
+}
+
+.reveal blockquote .emphasize {
+    color:#F05D8E;
+}
+
+/* blockquote i {
+    font-style:normal;
+}*/
