@@ -8,6 +8,8 @@ blockquote span.date {
 .reveal blockquote {
     text-align:left;
     font-style:normal;
+    padding-left: 15px;
+    padding-right: 15px;
 }
 
 .reveal blockquote .emphasize {
